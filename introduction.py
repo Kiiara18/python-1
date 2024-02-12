@@ -1,0 +1,5 @@
+print("eMobilis")
+print("Welcome to Python Programming")
+print(100)
+print(5+10)
+print(2*6)
